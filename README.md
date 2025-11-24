@@ -7,9 +7,9 @@
 
 ### `>_ /whoami`
 
-**I'm a developer bridging the gap between building software and breaking it.**
+**Just a software developer and a privacy enthusiast, hoping to break away from proprietary ecosystems.**
 
-I have a background in IAL and am planning to major in CS or Cybersecurity. My day job involves a lot of **Java**, but my GitHub is where I experiment with **Rust, Python, and JavaScript**.
+Currently planning to major in CS or Cybersecurity. My day job involves a lot of **Java**, but my GitHub is where I experiment with **Rust, Python, and JavaScript**.
 
 Right now, I'm pivoting hard into security, spending my free time on HackTheBox and figuring out if I want to focus on Pentesting or Bug Bounties.
 
