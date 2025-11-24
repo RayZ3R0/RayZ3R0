@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me:
+**Hey, I'm Rayyan.**<br><br>I'm a Junior Software Developer with a background in IAL, planning to major in CS or Cybersecurity. My day job involves a lot of Java, but my GitHub is where I experiment with Rust, Python, and JavaScript.<br><br>Right now, I'm pivoting hard into security—spending my free time on HackTheBox and figuring out if I want to focus on Pentesting or Bug Bounties.<br><br>**Things I'm working on:**<br>   - Refining **[tidaloader](https://github.com/RayZ3R0/tidaloader)** (my WebUI tool for Tidal music/lyrics automation serverside).<br>   - Learning network exploits and privilege escalation.<br><br>Outside of code? I draw, lift, game, and read a lot of webnovels and manga.<br>
 
-<!--
-**RayZ3R0/RayZ3R0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack:
+<div align="center">
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+# GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RayZ3R0&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RayZ3R0&theme=catppuccin_mocha&hide_border=false" height="180" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RayZ3R0&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+</div>
