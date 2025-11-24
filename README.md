@@ -14,7 +14,7 @@ Currently planning to major in CS or Cybersecurity. My day job involves a lot of
 Right now, I'm pivoting hard into security, spending my free time on HackTheBox and figuring out if I want to focus on Pentesting or Bug Bounties.
 
 **Currently working on:**
-*   Refining **[tidaloader](https://github.com/RayZ3R0/tidaloader)** – My CLI tool for Tidal music/lyrics automation (server-side).
+*   Refining **[tidaloader](https://github.com/RayZ3R0/tidaloader)** – My tool for Tidal music/lyrics automation (server-side).
 *   Learning network exploits and privilege escalation.
 
 *Outside of code? I draw, lift, game, and read a lot of webnovels and manga.*
