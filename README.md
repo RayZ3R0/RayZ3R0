@@ -46,10 +46,10 @@ Right now, I'm pivoting hard into security, spending my free time on HackTheBox 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RayZ3R0&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" />
-<br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=RayZ3R0&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" />
+<br><br> -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=RayZ3R0&theme=catppuccin_mocha&hide_border=false" alt="streak graph" />
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=RayZ3R0&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+<!--<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=RayZ3R0&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />-->
 
 </div>
